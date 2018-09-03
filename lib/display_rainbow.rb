@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 
-def display_rainbow(colors[])
+def display_rainbow(colors)
 
  puts "R: #{colors[0]}, O: [1], Y: [2], G: [3], B: [4], I: [5], V: [6]"
 
